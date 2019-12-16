@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Pyxis -->
+  <project path="device/xiaomi/pyxis" name="coderzstas/android_device_xiaomi_pyxis" remote="github" revision="lineage-17.0" />
+  <project path="kernel/xiaomi/pyxis" name="coderzstas/android_kernel_xiaomi_pyxis" remote="github" revision="lineage-17.0" />
+  <project path="vendor/xiaomi/pyxis" name="coderzstas/android_vendor_xiaomi_pyxis" remote="github" revision="lineage-17.0" />
+
+</manifest>
